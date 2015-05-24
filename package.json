@@ -4,7 +4,7 @@
   "description": "Discovery client",
   "main": "lib/irwin-client.js",
   "scripts": {
-    "start": "nodemon lib/irwin-client.js",
+    "start":  "nodemon lib/irwin-client.js",
     "test": "mocha"
   },
   "repository": {

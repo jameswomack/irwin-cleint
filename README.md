@@ -1,2 +1,2 @@
-# irwin-cleint
+# irwin-client
 Discovery client
